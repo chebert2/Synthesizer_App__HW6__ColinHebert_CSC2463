@@ -3,6 +3,19 @@
 
 //  HW 6   Synths and Sequencers 
 //
+//  USAGE notes :  
+//
+// To play synthesizer sound playback, 
+//
+//  first turn on a synth oscillator via
+// the synth on/off buttons towards the
+// top right of the app's screen window.
+// 
+// Next, in order to play frequency notes:
+// press the number keys 1-9 + 0 that are
+// found left of the backspace button.
+//
+//
 //  Video of the application being used : 
 //
 //  < https://lsumail2-my.sharepoint.com/:v:/g/personal/cheb168_lsu_edu/EZ1XrMpHRtxEjD7uUuHxSYIBBegRzSMTYluagiIY295HCQ?e=skt8a4 >
