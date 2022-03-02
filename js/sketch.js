@@ -3,11 +3,15 @@
 
 //  HW 6   Synths and Sequencers 
 //
+//  Video of the application being used : 
 //
-
+//  < https://lsumail2-my.sharepoint.com/:v:/g/personal/cheb168_lsu_edu/EZ1XrMpHRtxEjD7uUuHxSYIBBegRzSMTYluagiIY295HCQ?e=skt8a4 >
+//
+//
+//
 //  repository zip file uploaded to the following git webpage.
 //
-//  
+//  < https://github.com/chebert2/Synthesizer_App__HW6__ColinHebert_CSC2463 >
 //
 //
 
